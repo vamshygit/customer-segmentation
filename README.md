@@ -25,6 +25,5 @@ This project performs customer segmentation based on shopping behavior to help d
 - `analysis/customer_segmentation.xlsx`: EDA + clustering workbook
 - `visuals/segmentation_clusters.png`: visualization of customer groups
 
-## 👤 Author
-- [Your Name](https://github.com/yourusername)
+
 
